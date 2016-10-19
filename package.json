@@ -1,0 +1,27 @@
+{
+  "name": "robby",
+  "version": "1.0.0",
+  "description": "cloud9-project",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "robby",
+  "license": "ISC",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rderieux/Cloud9.git"
+  },
+  "keywords": [
+    "learn",
+    "practice"
+  ],
+  "bugs": {
+    "url": "https://github.com/rderieux/Cloud9/issues"
+  },
+  "homepage": "https://github.com/rderieux/Cloud9#readme"
+}
